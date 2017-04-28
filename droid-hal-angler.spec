@@ -1,5 +1,4 @@
-#These and other macros are documented in dhd/droid-hal-device.inc
-
+# These and other macros are documented in dhd/droid-hal-device.inc
 %define device angler
 %define vendor huawei
 
